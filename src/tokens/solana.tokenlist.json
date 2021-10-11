@@ -16740,6 +16740,24 @@
         "discord": "https://discord.com/invite/Wkgh9Fvy84"
       }
     },
+     {
+      "chainId": 101,
+      "address": "9BYwEQ3aEDmnXaF8t4mPLCfRCiGzBBVPWcZAL6KYJxRx",
+      "symbol": "APHD",
+      "name": "Applehead",
+      "decimals": 9,
+      "logoURI": "https://applehead.finance/wp-content/uploads/2021/10/Applehead.png",
+      "tags": [
+	    "stake"
+	    "NFT"
+	    "gaming"
+	      "swap"
+	    "solana"
+      ],
+      "extensions": {
+        "website": "http://applehead.finance/",
+      }
+    },
 {
       "chainId": 101,
       "address": "AWz2TJfkvCX18RNaogJkx9DUAqGyPcwt6tMmh7PdaX58",
